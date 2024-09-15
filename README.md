@@ -120,10 +120,6 @@ This will list all users with **read access** to the `Hello-World` repository ow
 - Ensure that your **Personal Access Token** has sufficient permissions, especially when working with private repositories.
 - API rate limits may apply when making too many requests. Be mindful of the [GitHub rate limits](https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Feel free to open issues or submit pull requests to improve this script.
